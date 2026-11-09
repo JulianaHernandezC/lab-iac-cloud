@@ -4,4 +4,4 @@ ssh_public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDl7G2oTbR2ZqQL+qyC0FAQeH
 
 mensaje = "Hola desde IaC v2 - cambio 2"
 
-allowed_cidr = "179.29.119.211/32"
+allowed_cidr = "0.0.0.0/0"
